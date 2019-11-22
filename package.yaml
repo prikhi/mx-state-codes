@@ -3,7 +3,7 @@
 name:
     mx-state-codes
 version:
-    0.1.0.0
+    1.0.0.0
 github:
     "prikhi/mx-state-codes"
 license:
@@ -24,7 +24,7 @@ extra-source-files:
     - CHANGELOG.md
 
 synopsis:
-    ISO 3166-2:MX Province Codes and Names
+    ISO 3166-2:MX State Codes and Names
 
 description: >
     This package contains a @Code@ data type containing each Mexican State, as
